@@ -1,0 +1,1 @@
+The national_illness dataset provides weekly data from the U.S. Centers for Disease Control and Prevention (CDC) describing the proportion of patients with influenza-like illnesses and the number of patients from 2002 through 2021.

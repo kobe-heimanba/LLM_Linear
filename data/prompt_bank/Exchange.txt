@@ -1,0 +1,1 @@
+The exchange_rate dataset is a related dataset containing foreign exchange rates, hosted by the Federal Reserve Economic Database (FRED). This dataset is based on FRED's data platform, which updates its information based on how often the data is updated.
